@@ -1,0 +1,2072 @@
+0,1
+l d r r r u r d d
+0,31
+l l d d l l u r u
+l l d d l l d l u
+l l d d l d l l u
+l l d d l d r d l
+l l d d r d l d l
+l l d d r d d l l
+l d l d l l u r u
+l d l d l l d l u
+l d l d l d l l u
+l d l d l d r d l
+l d l d r d l d l
+l d l d r d d l l
+d l l d l l u r u
+d l l d l l d l u
+d l l d l d l l u
+d l l d l d r d l
+d l l d r d l d l
+d l l d r d d l l
+0,50
+l l l l l l l l l
+l l l l l l l l d
+l l l l l l l d l
+l l l l l l d l l
+l l l d d d r r u
+l l d l d d r r u
+l l d d l d r r u
+l d l l d d r r u
+l d l d l d r r u
+0,53
+l l d l d r d r u
+l d l l d r d r u
+d l l l d r d r u
+0,59
+l l d l d l l u r
+l l d l d l l d r
+l d l l d l l u r
+l d l l d l l d r
+d l l l d l l u r
+d l l l d l l d r
+1,6
+u l d d d r r r d
+u l d d d r r r r
+1,7
+d r r u l u r r r
+1,17
+r d d d l d r r u
+r d d r r d d l u
+1,19
+l d d d l d r r u
+l d d r r d d l u
+1,22
+r u r r r d l l d
+r u r r r d r r u
+r u r r r r d r u
+1,33
+d l u u r r d r r
+d r r d l d r r u
+1,39
+u l l l l l d r r
+d r u r d d d d l
+d r u r d d d d d
+1,45
+d r u u l l l l l
+d r u u l l l l d
+d r u u l l l d l
+d r u u l l d l l
+d r u r d d r r u
+2,10
+u r r r r d l l d
+u r r r r d l d l
+u r r r r d l d r
+2,17
+d l l u r u u l d
+2,19
+r r d r u r d d l
+2,44
+r r u u l l l l l
+r r u u l l l l d
+r r u u l l l d l
+r r u u l l d l l
+r r u r d d r r u
+2,57
+d l d l l l u l u
+d l d l l l u r r
+d l d l l l d d l
+d l d l l l d r r
+r u l l d l l u r
+r u l l d l l d r
+3,4
+l d r r u r r r d
+l d r r u r r r r
+l d r r r u r r d
+l d r r r u r r r
+l d r r r r u r d
+l d r r r r u r r
+3,33
+u l u u r r d r r
+u r r d l d r r u
+l u u u r r d r r
+3,45
+u r u u l l l l l
+u r u u l l l l d
+u r u u l l l d l
+u r u u l l d l l
+u r u r d d r r u
+3,50
+d r d l d d d d l
+d r d r u r u l u
+d r d r u r u r r
+d r d r u r d d l
+d r d r u r d r r
+4,16
+l l d l l u r u l
+l l d l l u r u r
+l d l l l u r u l
+l d l l l u r u r
+4,57
+u l d l l l u l u
+u l d l l l u r r
+u l d l l l d d l
+u l d l l l d r r
+5,1
+l u u r d r u u l
+5,11
+u l d d r d l l u
+u l d d r d l l d
+5,24
+u r d r r u u l u
+u r r d r u u l u
+5,32
+r u l l u l l d l
+r u l l u l d l l
+r u l l d l u l l
+5,37
+u u r r r d r d l
+u u r r r d r d d
+u u r r r r d d l
+u u r r r r d d d
+u r u r r d r d l
+u r u r r d r d d
+u r u r r r d d l
+u r u r r r d d d
+5,38
+d l l d r r r u r
+d l l d r r r r u
+5,39
+u l u r r d r d l
+u l u r r d r d d
+u l u r r r d d l
+u l u r r r d d d
+5,47
+l l d d r d d l u
+l d l d r d d l u
+5,57
+d l l l d d r u r
+d l l l d d r d l
+d l l l d d r d d
+d l l l d d r r u
+d r d r u u u l u
+d r d r u u l u u
+6,8
+u r r d r d l l u
+u r r d r d l l d
+d l u u l l d l d
+d l u l u l d l d
+6,14
+r u l l l u r u l
+r u l l l u r u r
+r r r d l d d d r
+r r r d l d d r u
+r r r d l d d r d
+6,25
+r r d d r d d l u
+r r d r d d d l u
+6,29
+l l d d r d d l u
+l l d r d d d l u
+6,30
+d l d d d d l d l
+d l d d d d d l l
+d l d d d d d r u
+d l d d d r u u r
+6,32
+d d d d l u l u r
+d d d d l l u u r
+6,47
+d r u u u l l l l
+d r u r d r d d l
+d r u r r d d d l
+7,14
+l l d l d r d r u
+d d r d l d l u u
+d d r d d l l u u
+d r d d l d l u u
+d r d d d l l u u
+r d d d l d l u u
+r d d d d l l u u
+7,34
+d l u u r u r d d
+7,44
+u l l u u u r r d
+u l l u u r u r d
+u l l u r u u r d
+7,57
+u l l l d d r u r
+u l l l d d r d l
+u l l l d d r d d
+u l l l d d r r u
+u r d r u u u l u
+u r d r u u l u u
+d r u r u u u l u
+d r u r u u l u u
+8,1
+u r r u l l l d d
+8,6
+u r u u l l d l d
+u r u l u l d l d
+8,13
+u l d l d r d r u
+r d r d l d l u u
+r d r d d l l u u
+r r d d l d l u u
+r r d d d l l u u
+8,19
+d d d d d r r u l
+d r u r r u u u u
+d r u r r u u l l
+d r u r r u u l d
+8,36
+d r u r r r r d l
+d r r u r r r d l
+8,47
+u r u u u l l l l
+u r u r d r d d l
+u r u r r d d d l
+r u u u u l l l l
+r u u r d r d d l
+r u u r r d d d l
+9,1
+d r d l d l d r d
+d r r u l u r r u
+d r r u l u r r d
+d r r r d r u u l
+9,22
+l l u r r u u u u
+l l u r r u u l l
+l l u r r u u l d
+9,58
+r d d d l u u l u
+r d d d l d r d d
+10,0
+r r d l d l d r d
+r r r u l u r r u
+r r r u l u r r d
+r r r r d r u u l
+10,8
+d d r d d r r u l
+d d r d d r r d r
+d d r d d r r r d
+r u r d d r d l d
+r u r d d r d d l
+r u r d r d d l d
+r u r d r d d d l
+10,18
+u u u l l d d d r
+u u u l l d d r u
+u u u l l d d r d
+10,21
+u l u r r u u u u
+u l u r r u u l l
+u l u r r u u l d
+d l l d d r r u l
+10,36
+u r u r r r r d l
+u r r u r r r d l
+l l d d d l d l l
+l l d d d d l l l
+l l d d d r u u r
+10,37
+d r d r u r u l u
+d r d r r u u l u
+d r d r r d r d l
+r d d r u r u l u
+r d d r r u u l u
+r d d r r d r d l
+10,41
+r u r r u l u l d
+10,46
+l d r d l l u u l
+l d r d l l u l u
+l d r d l l l u u
+r d l d l l u u l
+r d l d l l u l u
+r d l d l l l u u
+r d d l l l u u l
+r d d l l l u l u
+r d d l l l l u u
+r d d r d d r u r
+r d d r d d r r u
+r d d r d d r r r
+10,48
+l d l d l l u u l
+l d l d l l u l u
+l d l d l l l u u
+l d d l l l u u l
+l d d l l l u l u
+l d d l l l l u u
+l d d r d d r u r
+l d d r d d r r u
+l d d r d d r r r
+d l l d l l u u l
+d l l d l l u l u
+d l l d l l l u u
+d l d l l l u u l
+d l d l l l u l u
+d l d l l l l u u
+d l d r d d r u r
+d l d r d d r r u
+d l d r d d r r r
+11,7
+r d r d d r r u l
+r d r d d r r d r
+r d r d d r r r d
+11,9
+u u r d d r d l d
+u u r d d r d d l
+u u r d r d d l d
+u u r d r d d d l
+l d r d d r r u l
+l d r d d r r d r
+l d r d d r r r d
+11,18
+l d d d d r r r u
+l d r r d r r u l
+11,24
+u u u l u l u u u
+u u u l u l u l l
+u u u l u l u l d
+u u u l u r r r d
+u u u l l u u u u
+u u u l l u u l l
+u u u l l u u l d
+u u l u u l u u u
+u u l u u l u l l
+u u l u u l u l d
+u u l u u r r r d
+u u l u l u u u u
+u u l u l u u l l
+u u l u l u u l d
+11,25
+u u r d d r r d l
+11,32
+l d r r u u u r r
+11,41
+d r d r r u u u l
+d r d r r u u l u
+d r d r r u l u u
+r d d r r u u u l
+r d d r r u u l u
+r d d r r u l u u
+11,52
+l u r u u u r u l
+l u r u u l l d l
+l u r u l u l d l
+l u r r d d r d d
+12,2
+d d r r u r r d l
+d r d r u r r d l
+r u u u l u r r u
+r u u u l u r r d
+r u u r d r u u l
+r u l l d l d r d
+r d d r u r r d l
+12,4
+l u u u l u r r u
+l u u u l u r r d
+l u u r d r u u l
+l u l l d l d r d
+l d d r u r r d l
+12,23
+d d l u u u u r d
+d d l d l u u u l
+d d l d l d d r u
+12,37
+u r d r u r u l u
+u r d r r u u l u
+u r d r r d r d l
+12,56
+d r u u l u u u u
+d r u u l u u l l
+d r u u l u u l d
+d r u u l l l u u
+d r u u l l l u r
+13,8
+d l u u l u u u r
+13,13
+l u r r d r r u l
+l u r r d r r d l
+13,26
+u l l d d r d r r
+l u l d d r d r r
+13,47
+l d d d l l d d d
+l d d d l d l d d
+l d d d d l l d d
+l d d d d d d r r
+l d d r u r r u r
+l d d r u r r r u
+l d d r u r r r r
+l d d r r u r u r
+l d d r r u r r u
+l d d r r u r r r
+l d d r r r u u r
+l d d r r r u r u
+l d d r r r u r r
+l d d r r r r u u
+l d d r r r r u r
+13,51
+u l l l d d r u r
+u l l l d d r r u
+u l l l d d r r r
+13,55
+r r u u l u u u u
+r r u u l u u l l
+r r u u l u u l d
+r r u u l l l u u
+r r u u l l l u r
+14,19
+l u u r d r r u l
+l u l d d r r r u
+14,28
+u r r r r r d l l
+r u r r r r d l l
+r r u r r r d l l
+r r d r r d l l l
+15,15
+l l u r u r r u l
+l l u r u r r d l
+15,24
+l u l u u u u r d
+l u l d l u u u l
+l u l d l d d r u
+15,29
+u u r r r r d l l
+u r u r r r d l l
+u r d r r d l l l
+15,34
+d d r d d l d l u
+d d r d d l d l d
+d d r d d l d d l
+d d r d d l d d r
+d d r d d d l l u
+d d r d d d l l d
+d d r d d d l d l
+d d r d d d l d r
+d r d d d l d l u
+d r d d d l d l d
+d r d d d l d d l
+d r d d d l d d r
+d r d d d d l l u
+d r d d d d l l d
+d r d d d d l d l
+d r d d d d l d r
+r d d d d l d l u
+r d d d d l d l d
+r d d d d l d d l
+r d d d d l d d r
+r d d d d d l l u
+r d d d d d l l d
+r d d d d d l d l
+r d d d d d l d r
+r r u u r d r u r
+r r u u r d r r u
+r r u u r d r r r
+15,38
+l l u u r d r u r
+l l u u r d r r u
+l l u u r d r r r
+15,44
+u l d l d l u u l
+u l d l d l u l u
+u l d l d l d d r
+15,45
+u r d d l l d d d
+u r d d l d l d d
+u r d d d l l d d
+u r d d d d d r r
+u r d r u r r u r
+u r d r u r r r u
+u r d r u r r r r
+u r d r r u r u r
+u r d r r u r r u
+u r d r r u r r r
+u r d r r r u u r
+u r d r r r u r u
+u r d r r r u r r
+u r d r r r r u u
+u r d r r r r u r
+15,55
+l l u u l d d d r
+16,0
+d r r d r r r u u
+d r r d r r r u l
+r d r d r r r u u
+r d r d r r r u l
+r r d d r r r u u
+r r d d r r r u l
+16,4
+u l u r u r r d l
+l u u r u r r d l
+l l d d r r r u u
+l l d d r r r u l
+l d l d r r r u u
+l d l d r r r u l
+16,12
+l l u l u r r u l
+l l u l u r r d r
+l l u l u r r r d
+16,17
+l l d l d l u u r
+l l d l d l u l d
+l l d d l l u u r
+l l d d l l u l d
+16,18
+r d r d l l l l u
+r d r d l d d l u
+r d r d l d d l d
+16,20
+l d r d l l l l u
+l d r d l d d l u
+l d r d l d d l d
+16,24
+r r d l d l u l u
+16,33
+r d r d d l d l u
+r d r d d l d l d
+r d r d d l d d l
+r d r d d l d d r
+r d r d d d l l u
+r d r d d d l l d
+r d r d d d l d l
+r d r d d d l d r
+r r d d d l d l u
+r r d d d l d l d
+r r d d d l d d l
+r r d d d l d d r
+r r d d d d l l u
+r r d d d d l l d
+r r d d d d l d l
+r r d d d d l d r
+16,37
+u l u u r d r u r
+u l u u r d r r u
+u l u u r d r r r
+l u u u r d r u r
+l u u u r d r r u
+l u u u r d r r r
+l l d d d l d l u
+l l d d d l d l d
+l l d d d l d d l
+l l d d d l d d r
+l l d d d d l l u
+l l d d d d l l d
+l l d d d d l d l
+l l d d d d l d r
+16,47
+d d r r u r d d l
+16,54
+u l u u l d d d r
+17,11
+u l u l u r r u l
+u l u l u r r d r
+u l u l u r r r d
+l u u l u r r u l
+l u u l u r r d r
+l u u l u r r r d
+17,32
+l l d l u l l u u
+l l d l u l l u r
+l l d l l u l u u
+l l d l l u l u r
+l l d l l d r r r
+17,33
+d l d d d l l u r
+17,36
+u u u u r d r u r
+u u u u r d r r u
+u u u u r d r r r
+u l d d d l d l u
+u l d d d l d l d
+u l d d d l d d l
+u l d d d l d d r
+u l d d d d l l u
+u l d d d d l l d
+u l d d d d l d l
+u l d d d d l d r
+17,39
+d l d l l u r u r
+d l d l d d d l u
+d l d l d d d r u
+d l d d l d d l u
+d l d d l d d r u
+d d l l l u r u r
+d d l l d d d l u
+d d l l d d d r u
+d d l d l d d l u
+d d l d l d d r u
+d d d l l d d l u
+d d d l l d d r u
+17,42
+r u u l d l u u l
+r u u l d l u l u
+r u u l d l d d r
+17,58
+l u u r u u r d d
+l u u r u l l l l
+l u u r u l l d d
+l u r u u u r d d
+l u r u u l l l l
+l u r u u l l d d
+r u l u u u r d d
+r u l u u l l l l
+r u l u u l l d d
+18,27
+l d d l u l d d r
+l d d r u r r r r
+l d d r r u r r r
+l d d r r r u r r
+l d d r r r d d r
+18,34
+l l d d d l l u r
+18,40
+l l d l l u r u r
+l l d l d d d l u
+l l d l d d d r u
+l l d d l d d l u
+l l d d l d d r u
+l d l l l u r u r
+l d l l d d d l u
+l d l l d d d r u
+l d l d l d d l u
+l d l d l d d r u
+l d d l l d d l u
+l d d l l d d r u
+18,59
+u u l u u u r d d
+u u l u u l l l l
+u u l u u l l d d
+19,4
+r d l l u l l l d
+r r u r r u u l d
+19,8
+l l u r r u u l d
+19,9
+d r r u u l l u u
+d r r u l u l u u
+19,12
+d d r u u u u u r
+d d r u u u u l d
+19,16
+d l l l u u u u r
+d l l l u u u l d
+19,55
+d l u u u r d r d
+d l u u u r r d d
+20,2
+d l d d d r d l l
+d l d d d r d l d
+d l d d d r d d l
+d d l d d r d l l
+d d l d d r d l d
+d d l d d r d d l
+d d d l d r d l l
+d d d l d r d l d
+d d d l d r d d l
+d d d r d l d l l
+d d d r d l d l d
+d d d r d l d d l
+d d d r r r u u l
+d d d r r r u r d
+d d d r r r d r u
+d d d r r r d r d
+20,6
+r d r d l d d l u
+r d r d l d d l d
+r d r d l d d d l
+r d r d l d d d r
+r d r d d l d l u
+r d r d d l d l d
+r d r d d l d d l
+r d r d d l d d r
+r d r d d d l l u
+r d r d d d l l d
+r d r d d d l d l
+r d r d d d l d r
+r d r d r r r u l
+r d r d r r r r d
+r d r r d r r u l
+r d r r d r r r d
+20,20
+u r u l l l l l u
+u r u l l d d l u
+u r u l l d d l d
+u r u r r d d l u
+u r u r r r u l u
+u r d d l l u l u
+u r d d l l u l d
+20,46
+d l u u u u l d d
+d l u u u r d r r
+d l d r r r d d l
+d l d r r r r r u
+20,47
+r d r u r r u l l
+21,3
+l l d d d r d l l
+l l d d d r d l d
+l l d d d r d d l
+l d l d d r d l l
+l d l d d r d l d
+l d l d d r d d l
+l d d l d r d l l
+l d d l d r d l d
+l d d l d r d d l
+l d d r d l d l l
+l d d r d l d l d
+l d d r d l d d l
+l d d r r r u u l
+l d d r r r u r d
+l d d r r r d r u
+l d d r r r d r d
+d l l d d r d l l
+d l l d d r d l d
+d l l d d r d d l
+d l d l d r d l l
+d l d l d r d l d
+d l d l d r d d l
+d l d r d l d l l
+d l d r d l d l d
+d l d r d l d d l
+d l d r r r u u l
+d l d r r r u r d
+d l d r r r d r u
+d l d r r r d r d
+21,15
+d l d d l u u l d
+d d l d l u u l d
+d d d l l u u l d
+d d d r d d d l u
+d d d r r u u r u
+d d r d d d d l u
+d d r d r u u r u
+d r d d d d d l u
+d r d d r u u r u
+r d d d d d d l u
+r d d d r u u r u
+21,17
+l d d d d d d l u
+l d d d r u u r u
+21,40
+u u r r d l d d l
+u u r r d d l d l
+21,47
+l l u u u u l d d
+l l u u u r d r r
+l l d r r r d d l
+l l d r r r r r u
+21,54
+l u l u u u r d d
+l d d d l u l l l
+l d d d l d d r u
+22,0
+u r d d d r d l l
+u r d d d r d l d
+u r d d d r d d l
+22,20
+r r u l l l u l u
+r r u l l l u l d
+22,27
+u l u l u l d d r
+u l u r u r r r r
+u l u r r u r r r
+u l u r r r u r r
+u l u r r r d d r
+l u u l u l d d r
+l u u r u r r r r
+l u u r r u r r r
+l u u r r r u r r
+l u u r r r d d r
+l l l d d d r r u
+l l l d d d r r r
+l l l d d r d r u
+l l l d d r d r r
+l l d l d d r r u
+l l d l d d r r r
+l l d l d r d r u
+l l d l d r d r r
+d r u u u u r r r
+d r u u u r u r r
+d r u u u r d d r
+22,44
+u r u u u u l d d
+u r u u u r d r r
+u r d r r r d d l
+u r d r r r r r u
+22,51
+r r d d l u l l l
+r r d d l d d r u
+22,58
+u u r u l l d l u
+u r u u l l d l u
+r u u u l l d l u
+23,21
+u r u l l l u l u
+u r u l l l u l d
+d l u l l l u r u
+d l l u l l u r u
+r u u l l l u l u
+r u u l l l u l d
+23,26
+u u u l u l d d r
+u u u r u r r r r
+u u u r r u r r r
+u u u r r r u r r
+u u u r r r d d r
+u l l d d d r r u
+u l l d d d r r r
+u l l d d r d r u
+u l l d d r d r r
+u l d l d d r r u
+u l d l d d r r r
+u l d l d r d r u
+u l d l d r d r r
+r r u u u u r r r
+r r u u u r u r r
+r r u u u r d d r
+23,57
+l u l d d r r r d
+24,10
+r u l l u r r u l
+r u l l u r r r d
+r u l l l l d l u
+r u l l l l d l d
+r u l l l l d d l
+r u l l l l d d r
+r u l l l d l l u
+r u l l l d l l d
+r u l l l d l d l
+r u l l l d l d r
+r u l l d l l l u
+r u l l d l l l d
+r u l l d l l d l
+r u l l d l l d r
+r d r u r u u l d
+24,22
+u u u l l l u l u
+u u u l l l u l d
+l l u l l l u r u
+l l l u l l u r u
+r d l d d l l u l
+r d l d d l l u r
+r d d l d l l u l
+r d d l d l l u r
+r d d d l l l u l
+r d d d l l l u r
+24,29
+u l u u u u r r r
+u l u u u r u r r
+u l u u u r d d r
+d r u u r u r r u
+d r u u r d d r r
+d r u u r d r d r
+d r u u r r u r u
+d r u u r r d d r
+24,35
+d l u u l l u r u
+d l u u l l d d r
+d l u u l d l d r
+24,38
+d l u u l l u r u
+d l u u r r d r r
+d l u u r r r d r
+d l u u r r r r d
+d l u l u l u r u
+24,42
+d r u r d r u u l
+24,46
+d d d r u u r u l
+25,15
+l l l u r u u l d
+25,39
+l l u u l l u r u
+l l u u r r d r r
+l l u u r r r d r
+l l u u r r r r d
+l l u l u l u r u
+r d d r d d l l d
+r d d r d d d d d
+r d d r r r u l l
+25,50
+l u r r d d r r u
+l u r r d r d r u
+l u r r r u l l l
+l u r r r d d r u
+26,27
+d d l u l u u r u
+d d l u l u u r r
+d d l u l u r u u
+d d l u l u r u r
+26,31
+l u u u r u r r u
+l u u u r d d r r
+l u u u r d r d r
+l u u u r r u r u
+l u u u r r d d r
+d r r d d l d l l
+d r r d d d l l l
+d r r d d d d r r
+d r r d d d r u r
+d r r d d d r d r
+d r r d d d r r u
+d r r d d d r r d
+r d r d d l d l l
+r d r d d d l l l
+r d r d d d d r r
+r d r d d d r u r
+r d r d d d r d r
+r d r d d d r r u
+r d r d d d r r d
+26,33
+l d r d d l d l l
+l d r d d d l l l
+l d r d d d d r r
+l d r d d d r u r
+l d r d d d r d r
+l d r d d d r r u
+l d r d d d r r d
+r u u u l l u r u
+r u u u l l d d r
+r u u u l d l d r
+26,37
+d r d d l l u u u
+d r d d l l u l d
+d r d d l l d l u
+d r d d l l d l d
+26,38
+u l u u l l u r u
+u l u u r r d r r
+u l u u r r r d r
+u l u u r r r r d
+u l u l u l u r u
+26,44
+r r d r u u r u l
+27,12
+d r u u l l l u l
+27,34
+u u u u l l u r u
+u u u u l l d d r
+u u u u l d l d r
+27,49
+u l d l u u r u l
+u l d d r d d r d
+u l d d r d r d d
+27,55
+l u u u r r r r d
+l u u r u r r r d
+l u r u u r r r d
+28,2
+r u u u u l d l l
+r u u u u l d l d
+r u u u u l d d l
+r u u u r r u r u
+r u u u r r u r d
+r u l l l d d r r
+r u l l l d r d r
+28,4
+u u l u u l d l l
+u u l u u l d l d
+u u l u u l d d l
+u u l u r r u r u
+u u l u r r u r d
+u u r d r u r u l
+u u r d r u r u r
+u u r d r u r r u
+u u r d r u r r d
+u l u u u l d l l
+u l u u u l d l d
+u l u u u l d d l
+u l u u r r u r u
+u l u u r r u r d
+u l l l l d d r r
+u l l l l d r d r
+l u u u u l d l l
+l u u u u l d l d
+l u u u u l d d l
+l u u u r r u r u
+l u u u r r u r d
+l u l l l d d r r
+l u l l l d r d r
+28,5
+d d d d d r r u l
+d d d d d r r r d
+28,9
+d d l l d r d l l
+d d l l d r d d d
+d d l l d r d r u
+28,18
+u l u r u r r d l
+u l u r u r r d r
+u l u r u r r r d
+l u u r u r r d l
+l u u r u r r d r
+l u u r u r r r d
+28,24
+u u l l d l l u l
+u u l l d l l u r
+u u l d l l l u l
+u u l d l l l u r
+28,30
+u l d d l u u u r
+28,31
+u r r d d l d l l
+u r r d d d l l l
+u r r d d d d r r
+u r r d d d r u r
+u r r d d d r d r
+u r r d d d r r u
+u r r d d d r r d
+r u r d d l d l l
+r u r d d d l l l
+r u r d d d d r r
+r u r d d d r u r
+r u r d d d r d r
+r u r d d d r r u
+r u r d d d r r d
+28,37
+u r d d l l u u u
+u r d d l l u l d
+u r d d l l d l u
+u r d d l l d l d
+28,40
+l u r r d d l l d
+l u r r d d d d d
+l u r r r r u l l
+28,45
+d l l l u r r u r
+28,50
+r u r d r d l d d
+r u r r d d l d d
+28,57
+u l u u r d r d r
+u l u u r d r r d
+l u u u r d r d r
+l u u u r d r r d
+29,54
+d d d r d d l d d
+d d d r d r r u r
+d d d r d r r r u
+d d d r d r r r r
+d d d r r d r u r
+d d d r r d r r u
+d d d r r d r r r
+d d r d d d l d d
+d d r d d r r u r
+d d r d d r r r u
+d d r d d r r r r
+d d r d r d r u r
+d d r d r d r r u
+d d r d r d r r r
+d d r r d d r u r
+d d r r d d r r u
+d d r r d d r r r
+d d r r r u l u l
+d d r r r u l u r
+d d r r r u r u l
+d d r r r r u u l
+d r d d d d l d d
+d r d d d r r u r
+d r d d d r r r u
+d r d d d r r r r
+d r d d r d r u r
+d r d d r d r r u
+d r d d r d r r r
+d r d r d d r u r
+d r d r d d r r u
+d r d r d d r r r
+d r d r r u l u l
+d r d r r u l u r
+d r d r r u r u l
+d r d r r r u u l
+30,3
+d r r d d r r u l
+d r r d d r r r d
+r d r d d r r u l
+r d r d d r r r d
+r r d d d r r u l
+r r d d d r r r d
+30,6
+u u r u l u r u l
+u u r u l u r u r
+u u r u l u r r u
+u u r u l u r r d
+u r u u l u r u l
+u r u u l u r u r
+u r u u l u r r u
+u r u u l u r r d
+30,10
+u r r r d l l d r
+u r r r r r r d l
+30,25
+l l l l u u r d r
+30,47
+r d l l u u u r d
+r d l l d l l d r
+30,53
+r d d r d d l d d
+r d d r d r r u r
+r d d r d r r r u
+r d d r d r r r r
+r d d r r d r u r
+r d d r r d r r u
+r d d r r d r r r
+r d r d d d l d d
+r d r d d r r u r
+r d r d d r r r u
+r d r d d r r r r
+r d r d r d r u r
+r d r d r d r r u
+r d r d r d r r r
+r d r r d d r u r
+r d r r d d r r u
+r d r r d d r r r
+r d r r r u l u l
+r d r r r u l u r
+r d r r r u r u l
+r d r r r r u u l
+r r d d d d l d d
+r r d d d r r u r
+r r d d d r r r u
+r r d d d r r r r
+r r d d r d r u r
+r r d d r d r r u
+r r d d r d r r r
+r r d r d d r u r
+r r d r d d r r u
+r r d r d d r r r
+r r d r r u l u l
+r r d r r u l u r
+r r d r r u r u l
+r r d r r r u u l
+31,16
+d r r u l u u r r
+d r r u l u r u r
+31,19
+u r d d d l d l u
+u r d d d d l l u
+31,25
+r d d l u l u l l
+r d d l u l u l d
+31,38
+l u r u l l u u u
+l u r u l l u l d
+l u r u l l d l u
+l u r u l l d l d
+31,42
+d d l l l u u r u
+d d l l l u r u u
+32,12
+l l d d r u r d r
+r r u u u r r d l
+r r u u l l l d r
+r r u l u l l d r
+r r d r d d l u l
+r r d r d d l d d
+r r d r d d l d r
+r r r d d d l u l
+r r r d d d l d d
+r r r d d d l d r
+32,27
+r r d r u u l u l
+r r d r u u l u r
+r r d r u u l l u
+r r d r u u r u l
+r r d r u r u u l
+r r d r r u u u l
+32,49
+l u l l u u u r d
+l u l l d l l d r
+l l u l u u u r d
+l l u l d l l d r
+32,51
+d l d d d d d r u
+d l d d d d d r r
+r r r r d d l d d
+r r r r d r r u r
+r r r r d r r r u
+r r r r d r r r r
+r r r r r d r u r
+r r r r r d r r u
+r r r r r d r r r
+33,1
+u l u u r d r u u
+u r r r d d r r r
+l u u u r d r u u
+r u r r d d r r r
+33,3
+l u r r d d r r r
+33,13
+u r u u u r r d l
+u r u u l l l d r
+u r u l u l l d r
+u r d r d d l u l
+u r d r d d l d d
+u r d r d d l d r
+u r r d d d l u l
+u r r d d d l d d
+u r r d d d l d r
+33,28
+u r d r u u l u l
+u r d r u u l u r
+u r d r u u l l u
+u r d r u u r u l
+u r d r u r u u l
+u r d r r u u u l
+d r u r u u l u l
+d r u r u u l u r
+d r u r u u l l u
+d r u r u u r u l
+d r u r u r u u l
+d r u r r u u u l
+d r r u u u l u l
+d r r u u u l u r
+d r r u u u l l u
+d r r u u u r u l
+d r r u u r u u l
+d r r u r u u u l
+d r r r u u u u l
+33,43
+u u r u l l l d d
+33,48
+u u l l u u u r d
+u u l l d l l d r
+u l u l u u u r d
+u l u l d l l d r
+l u u l u u u r d
+l u u l d l l d r
+l d l u u l l d r
+l d d r d l d r r
+d l l u u l l d r
+d l d r d l d r r
+33,52
+u r r r d d l d d
+u r r r d r r u r
+u r r r d r r r u
+u r r r d r r r r
+u r r r r d r u r
+u r r r r d r r u
+u r r r r d r r r
+l l d d d d d r u
+l l d d d d d r r
+r u r r d d l d d
+r u r r d r r u r
+r u r r d r r r u
+r u r r d r r r r
+r u r r r d r u r
+r u r r r d r r u
+r u r r r d r r r
+33,54
+l u r r d d l d d
+l u r r d r r u r
+l u r r d r r r u
+l u r r d r r r r
+l u r r r d r u r
+l u r r r d r r u
+l u r r r d r r r
+34,16
+r u l l d d l u l
+r u l l d d l d d
+r u l l d d l d r
+34,23
+d d l l u u r u u
+d d l l u r u u u
+34,33
+d l u u u u u l l
+d l u u u u l u l
+d l u u u u r r r
+d l u u u l u u l
+d l u u l u u u l
+d l u u r r u u r
+d l u u r r u r u
+d l u u r r u r r
+d l u u r r r u u
+d l u u r r r u r
+d l u l u u u u l
+d l l u u u u u l
+34,37
+r u u l d l l u u
+r u u l d l l u r
+34,42
+l d d r r r u r d
+l d d r r r d l d
+l d r d r r u r d
+l d r d r r d l d
+l d r r d r u r d
+l d r r d r d l d
+34,58
+d r d l d l d l u
+d r d d l l d l u
+35,6
+r d r r u u u u u
+r d r r u u u l d
+35,17
+u u l l d d l u l
+u u l l d d l d d
+u u l l d d l d r
+d d r d l l u l u
+d d r d l l u l l
+d r d d l l u l u
+d r d d l l u l l
+r d d d l l u l u
+r d d d l l u l l
+35,25
+u r u l u l u l l
+u r u l u l u l d
+r u u l u l u l l
+r u u l u l u l d
+35,28
+u r u r u u l u l
+u r u r u u l u r
+u r u r u u l l u
+u r u r u u r u l
+u r u r u r u u l
+u r u r r u u u l
+u r r u u u l u l
+u r r u u u l u r
+u r r u u u l l u
+u r r u u u r u l
+u r r u u r u u l
+u r r u r u u u l
+u r r r u u u u l
+r u u r u u l u l
+r u u r u u l u r
+r u u r u u l l u
+r u u r u u r u l
+r u u r u r u u l
+r u u r r u u u l
+r u r u u u l u l
+r u r u u u l u r
+r u r u u u l l u
+r u r u u u r u l
+r u r u u r u u l
+r u r u r u u u l
+r u r r u u u u l
+r d l l l l l u u
+r r u u u u l u l
+r r u u u u l u r
+r r u u u u l l u
+r r u u u u r u l
+r r u u u r u u l
+r r u u r u u u l
+r r u r u u u u l
+r r r u u u u u l
+35,40
+d l u u u u u r u
+d l u u u u r u u
+35,53
+l u l d d r r d d
+35,56
+l d r r u u u u r
+l d r r u u u r u
+l d r r u u u r r
+36,1
+d l u u u r r d l
+d r d l d d r d l
+d r d l d r d d l
+r d d l d d r d l
+r d d l d r d d l
+36,10
+d r u u u u r d r
+d r u u r r d r d
+d r u u r r d r r
+d r u u r r r u l
+d r u u r r r d d
+d r u u r r r d r
+36,12
+d l u u u u r d r
+d l u u r r d r d
+d l u u r r d r r
+d l u u r r r u l
+d l u u r r r d d
+d l u u r r r d r
+36,20
+l l d d l l u l u
+l l d d l l u l l
+l d l d l l u l u
+l d l d l l u l l
+l d d l l l u l u
+l d d l l l u l l
+l d d d r d d r u
+l d d r d d d r u
+d l l d l l u l u
+d l l d l l u l l
+d l d l l l u l u
+d l d l l l u l l
+d l d d r d d r u
+d l d r d d d r u
+36,32
+r d r r u u r u l
+r d r r u u r r d
+r d r r u r u u l
+r d r r u r u r d
+37,9
+l l l l u u u r r
+l l l l u l d d r
+l d d l d r r r u
+d l d l d r r r u
+r r u u u u r d r
+r r u u r r d r d
+r r u u r r d r r
+r r u u r r r u l
+r r u u r r r d d
+r r u u r r r d r
+37,29
+d l l d d d r u r
+d l l d d d r r u
+d l d l d d r u r
+d l d l d d r r u
+d d l l d d r u r
+d d l l d d r r u
+37,32
+l u u u u u u u l
+l d d r u r d r u
+l d d r d r u r u
+l d d r d r r u u
+l d d r d r r d l
+37,39
+r r u r r r u r d
+r r u r r r d l d
+r r r u r r u r d
+r r r u r r d l d
+37,46
+u u u u u l l d r
+u u r r d l d r r
+37,54
+r u r r u u u u r
+r u r r u u u r u
+r u r r u u u r r
+r d d d l u l l u
+38,3
+u l d l d d r d l
+u l d l d r d d l
+38,7
+l d d d r d d l u
+l d d d r d d r u
+38,10
+u r u u u u r d r
+u r u u r r d r d
+u r u u r r d r r
+u r u u r r r u l
+u r u u r r r d d
+u r u u r r r d r
+l l d l d r r r u
+38,11
+r d d l d l d l u
+r d d l d l d l l
+38,14
+d r r r u l u l u
+d r r r u l u l l
+r d r r u l u l u
+r d r r u l u l l
+38,25
+l l d l l u r u l
+38,30
+l l l d d d r u r
+l l l d d d r r u
+l l d l d d r u r
+l l d l d d r r u
+l d l l d d r u r
+l d l l d d r r u
+38,38
+d l u u r u u l d
+d l d d r r u r r
+d l d d r r r u r
+d l d d r r r r u
+d l d r d r u r r
+d l d r d r r u r
+d l d r d r r r u
+38,40
+u r u r r r u r d
+u r u r r r d l d
+u r r u r r u r d
+u r r u r r d l d
+d r r r d l d l u
+d r r r d d l l u
+39,0
+u u u u u r r d l
+39,9
+u l d l d r r r u
+40,31
+l u r r u r d r u
+l u r r d r u r u
+l u r r d r r u u
+l u r r d r r d l
+d d d d l l u u l
+d d d d l l l d l
+40,36
+u u u l u u r u l
+u u u l u u r r d
+u u u l u r u u l
+u u u l u r u r d
+u u u r r u u l d
+u u l u u u r u l
+u u l u u u r r d
+u u l u u r u u l
+u u l u u r u r d
+u u r u r u u l d
+u r u u r u u l d
+u r d d r r u r r
+u r d d r r r u r
+u r d d r r r r u
+u r d r d r u r r
+u r d r d r r u r
+u r d r d r r r u
+40,51
+r d d d r r u u l
+r d d d r r u l u
+40,53
+l d d d r r u u l
+l d d d r r u l u
+41,0
+d r r d d l u l d
+41,4
+u l u r r d d d r
+41,32
+l d d d l l u u l
+l d d d l l l d l
+d l d d l l u u l
+d l d d l l l d l
+d r d r r u u l l
+d r d r r u r r r
+d r d r r r u r r
+d r r d r u u l l
+d r r d r u r r r
+d r r d r r u r r
+41,44
+u r d r d l l l l
+u r d r d l d d d
+u r d r d l d d r
+u r d r d l d r d
+42,11
+d d d l d l u u r
+d d d d l l u u r
+42,22
+r r u u u r r d l
+r r u u l l d l u
+r r u l u l d l u
+42,26
+u l l u u r r d l
+u l l u l l d l u
+u l l l u l d l u
+42,41
+d d r u r r u l l
+d d r u r r r d d
+d d r u r r r d r
+d d r u r r r r d
+42,48
+l u u l u r u r d
+43,14
+u r d d l d l d r
+u r d d d l l d r
+43,18
+l u r u r u l l d
+l l l d l d l d r
+l l l d d l l d r
+d r d d l l d d d
+43,19
+r r r r d d l u l
+43,30
+u r d d l l u u l
+u r d d l l l d l
+43,40
+l l d l u l u r r
+l l d l l u u r r
+r d r u r r u l l
+r d r u r r r d d
+r d r u r r r d r
+r d r u r r r r d
+43,48
+r u u u u u r r u
+r u u u u u r r r
+r u u u u r u r u
+r u u u u r u r r
+r u u u r u u r u
+r u u u r u u r r
+r u u u r d r d l
+43,50
+l u u u u u r r u
+l u u u u u r r r
+l u u u u r u r u
+l u u u u r u r r
+l u u u r u u r u
+l u u u r u u r r
+l u u u r d r d l
+43,59
+u u u u l d l d d
+u u u u l d l d r
+44,12
+u u u r u r r d l
+44,20
+u r r r d d l u l
+d d r d l d l u l
+d d r d l d l l u
+d r d d l d l u l
+d r d d l d l l u
+44,34
+l l d d d r r u u
+l d l d d r r u u
+l d d l d r r u u
+44,39
+u l d l u l u r r
+u l d l l u u r r
+d d l l d l u u r
+d d r r u r r d l
+d d r r u r r d d
+d r d r u r r d l
+d r d r u r r d d
+44,58
+l u l l u u r d r
+l u l l u u r r d
+l u l l u u r r r
+l d l d l l u r u
+l d d l l l u r u
+d l l d l l u r u
+d l d l l l u r u
+d d l l l l u r u
+45,16
+u u l d l d l d r
+u u l d d l l d r
+d d l u u l l d r
+d d l l d l u u r
+d d l l d l d d l
+d d l l d d l d l
+d d l l d d d l l
+d d l l d d d r u
+45,18
+u r d d l l d d d
+45,25
+u l d d d d r r d
+45,38
+r d l l d l u u r
+r d r r u r r d l
+r d r r u r r d d
+r r d r u r r d l
+r r d r u r r d d
+45,44
+u l l u r r u l l
+u l l u r r r d d
+u l l u r r r d r
+u l l u r r r r d
+45,59
+l l l d l l u r u
+l l d l l l u r u
+l d l l l l u r u
+46,1
+l d d d r u r d d
+46,6
+d r d d d d r u u
+r u l u l l l d l
+r u l l u l l d l
+r u l l l u l d l
+r u l l l d l u l
+r u l l l d l l u
+r u l l l d l d r
+r u l l d l l u l
+r u l l d l l l u
+r u l l d l l d r
+r d d d d d r u u
+47,9
+l l d d d d r u u
+l d l d d d r u u
+d l l d d d r u u
+47,10
+d d r u r d r d l
+d d r u r r u u r
+d d r u r r d d l
+r r u l l l u u r
+47,26
+u u u u r r d d l
+u u u u r r r u l
+u u u r u r d d l
+u u u r u r r u l
+r r r u u u u u l
+r r r u u u l d l
+r r r d l d r r d
+47,45
+u r r r u u l d l
+47,46
+r r r u u r r d l
+47,50
+r r r u l u u r r
+r r r u l u l d l
+r r r u l u r u r
+47,54
+d l u u l u u r r
+d l u u l u l d l
+d l u u l u r u r
+48,23
+u l d l d l d r d
+u l d l d r r r d
+48,27
+u r r u u u u u l
+u r r u u u l d l
+u r r d l d r r d
+48,32
+l d r r u u r u u
+l d r r d l d l u
+l d r r d d l l u
+48,39
+u u l l d l u u r
+u u r r u r r d l
+u u r r u r r d d
+49,3
+u r r u u l l u l
+u r r u u l l l u
+u r r u u l l d r
+49,27
+d l d l u u u r d
+d l d d d l l u r
+49,35
+l u r r d d d r r
+l u r r d d r d r
+l u r r d d r r d
+49,42
+l u u u u r r d l
+l u u u u r r d d
+l u u r d r r u l
+d r d d l l d l u
+d r d d r d d d r
+d r d d r d d r u
+d r d d r d d r d
+49,49
+l l u r r r r d l
+49,57
+u r r u l l l l d
+r u r u l l l l d
+r r u u l l l l d
+50,3
+r u r r d d d l l
+r u r r d d d l d
+50,10
+r d l d l u u l u
+r d l d l u l u u
+r d l d l l u u u
+r d l d l l d l u
+r d l d l d l l u
+r d l d l d d r u
+r d l d l d d r r
+50,19
+l d l u l u u l d
+l d l u l u u r d
+l d l l u u u l d
+l d l l u u u r d
+l d l l l d d d r
+l d l l d l d d r
+l d d r r u u r d
+l d r d r u u r d
+51,27
+u l d l u u u r d
+u l d d d l l u r
+51,42
+u r d d l l d l u
+u r d d r d d d r
+u r d d r d d r u
+u r d d r d d r d
+51,44
+u l d d l l d l u
+u l d d r d d d r
+u l d d r d d r u
+u l d d r d d r d
+51,46
+d d r r d l l l u
+d d r r d l l l d
+d d r r r u u u l
+d d r r r u u l u
+d d r r r u l u u
+d r d r d l l l u
+d r d r d l l l d
+d r d r r u u u l
+d r d r r u u l u
+d r d r r u l u u
+r d d r d l l l u
+r d d r d l l l d
+r d d r r u u u l
+r d d r r u u l u
+r d d r r u l u u
+51,56
+l u u l l l d d r
+l u u r d r r d r
+l u u r d r r r d
+l u l u l l d d r
+l u l l u l d d r
+51,57
+d l d d r d l d d
+d l d d r d d l d
+d l d d r d r r u
+d d l d r d l d d
+d d l d r d d l d
+d d l d r d r r u
+52,13
+l u r r d d d r r
+l u r r d d r d r
+l u r r d r d d r
+l u r r r d d d r
+52,21
+r r u u l u r r d
+r r u l u u r r d
+52,31
+l u l u l u r r d
+l u l l u u r r d
+l l u u l u r r d
+l l u l u u r r d
+l l l u u u r r d
+52,37
+l l u l d d r d d
+l l u l d d r d r
+52,38
+d r u u u u l u u
+d r u u u u l d d
+52,45
+r d r r d l l l u
+r d r r d l l l d
+r d r r r u u u l
+r d r r r u u l u
+r d r r r u l u u
+r r d r d l l l u
+r r d r d l l l d
+r r d r r u u u l
+r r d r r u u l u
+r r d r r u l u u
+52,51
+r d l l u u u l l
+r d l l u u l u l
+r d l l u u l l u
+r d l l u u r r r
+r d l l u l u u l
+r d l l u l u l u
+r d l l u l l u u
+r d l l l u u u l
+r d l l l u u l u
+r d l l l u l u u
+r d l l d d r d r
+r d l d l d r d r
+52,55
+u u u l l l d d r
+u u u r d r r d r
+u u u r d r r r d
+u u l u l l d d r
+u u l l u l d d r
+53,2
+u u r r r r d l l
+u u r r r r d l d
+u r u r r r d l l
+u r u r r r d l d
+53,16
+r u u u l u u l d
+r u u u l u u r d
+r u u l u u u l d
+r u u l u u u r d
+r u u l l d d d r
+r u u l d l d d r
+r u r r r u u r d
+53,27
+r r d l d d l u l
+r r d l d d l l u
+r r d l d d l l l
+r r d d l d l u l
+r r d d l d l l u
+r r d d l d l l l
+r r d r r r u l l
+r r d r r r d l d
+53,36
+u l u l d d r d d
+u l u l d d r d r
+53,55
+d l u l d l d r d
+d l u l d l d r r
+54,2
+l l d d d d d r u
+l d l d d d d r u
+l d r r d l d d l
+l d r r d l d d r
+l d r r d l d r d
+l d r r d r u r d
+54,6
+d d r u u r u l u
+d d r u u r r r u
+d d r u u r r r r
+d d r u r u u l u
+d d r u r u r r u
+d d r u r u r r r
+d d r u r r u r u
+d d r u r r u r r
+54,23
+u u u u l u r r d
+u u u l u u r r d
+54,24
+r r r r d d l u l
+r r r r d d l l u
+r r r r d d l l l
+54,41
+d d l d d l l u r
+d d d l d l l u r
+d d d d l l l u r
+r u r u l l d l u
+r u r u r d d d r
+r u r u r d d r u
+r u r u r d d r d
+55,12
+u r d d r u u r r
+u r d d r u r u r
+u r d d r r u u r
+u r d d r r d l d
+u r d d r r d r r
+u r d d r r r d r
+u r d d r r r r d
+55,34
+u l u u r d r d d
+u l u u r d r d r
+56,8
+d l u u u r u l u
+d l u u u r r r u
+d l u u u r r r r
+d l u u r u u l u
+d l u u r u r r u
+d l u u r u r r r
+d l u u r r u r u
+d l u u r r u r r
+d l d r r r r d l
+d l d r r r r r u
+d r r u l u u r u
+d r r u l u u r r
+56,22
+u u l d l u l u r
+u u l d l l u u r
+56,39
+l u u r d r u u u
+56,44
+d d r r r r u u l
+d d r r r r u l u
+57,1
+u u l d d d d r u
+u u r r d l d d l
+u u r r d l d d r
+u u r r d l d r d
+u u r r d r u r d
+57,11
+u u l d l u u r u
+u u l d l u u r r
+57,29
+u r u u r r u l l
+u r u u r r d l d
+u r u l l d l u l
+u r u l l d l l u
+u r u l l d l l l
+57,37
+u l l l l u l l d
+u l l l l l u l d
+u l l d r d r d l
+u l l d r d r d r
+57,42
+d d l u l l l u r
+d d l l u l l u r
+d d l l l u l u r
+57,43
+d r r r r r u u l
+d r r r r r u l u
+r d r r r r u u l
+r d r r r r u l u
+57,46
+l u r u r u l l u
+l u r u r u l l d
+57,49
+d d l l u r u u l
+d d l l u r u l u
+57,51
+r d d r u u r u u
+r d d r u u r u l
+57,55
+d l d l u u r u u
+d l d l u u r u l
+d d l l u u r u u
+d d l l u u r u l
+58,6
+u u r u u r u l u
+u u r u u r r r u
+u u r u u r r r r
+u u r u r u u l u
+u u r u r u r r u
+u u r u r u r r r
+u u r u r r u r u
+u u r u r r u r r
+u r u u u r u l u
+u r u u u r r r u
+u r u u u r r r r
+u r u u r u u l u
+u r u u r u r r u
+u r u u r u r r r
+u r u u r r u r u
+u r u u r r u r r
+u r d r r r r d l
+u r d r r r r r u
+58,16
+r d l l l l u l u
+r d l l l l l u u
+r d l l l l l l l
+58,19
+l u r u l u l d d
+58,23
+l l d l u u u r d
+r r r r r r d l l
+58,32
+r u r u l u l l d
+r u r u l l u l d
+r u r r r d r d l
+r u r r r d r d r
+r r u u l u l l d
+r r u u l l u l d
+r r u r r d r d l
+r r u r r d r d r
+r r r u r d r d l
+r r r u r d r d r
+58,51
+l u u l u r r d r
+59,3
+r r u l u u u r d
+59,24
+u r r r r r d l l
+59,30
+r u u l d l d l l
+59,33
+u u r u l u l l d
+u u r u l l u l d
+u u r r r d r d l
+u u r r r d r d r
+u r u u l u l l d
+u r u u l l u l d
+u r u r r d r d l
+u r u r r d r d r
+u r r u r d r d l
+u r r u r d r d r
+59,57
+u r r u u l u r u
+u r r u u l l l d
+u r r u l u u r u
+u r r u l u l l d
+u r r u l l u l d
+l l l l u u r u u
+l l l l u u r u l
+r u r u u l u r u
+r u r u u l l l d
+r u r u l u u r u
+r u r u l u l l d
+r u r u l l u l d
+59,59
+l u r u u l u r u
+l u r u u l l l d
+l u r u l u u r u
+l u r u l u l l d
+l u r u l l u l d
