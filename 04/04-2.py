@@ -3,7 +3,6 @@ mapp = []
 placements = []
 supertotal = 0
 
-
 #initilisation, feeding file into mapp
 with open("input.txt", "r") as f:
     linecount = 0
@@ -73,11 +72,6 @@ def checks(mapp, placements, line):
 
     if total == 2:
         supertotal += 1
-
-
-
-
-
 
 find(mapp, placements)
 for x in range(0, len(placements)):

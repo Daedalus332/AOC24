@@ -2,9 +2,6 @@
 mapp = []
 mappp = []
 blockerlist = []
-trackerlist = []
-supertotal = 0
-loop = False
 upbool = False
 downbool = False
 leftbool = False
@@ -64,9 +61,7 @@ def find(mapp):
 def movement(placements):
     lineplace = placements[0]
     charplace = placements[1]
-    global loop
     global mapp
-    global trackerlist
     global counter
     global upbool, downbool, leftbool, rightbool
     
@@ -88,106 +83,79 @@ def movement(placements):
 
         
     if upbool == True:
-        if ([lineplace - 1, charplace, "^"]) in trackerlist:
-            #print(mapp)
-            #print([lineplace - 1, charplace, "^"])
-            loop = True
-            
-        if mapp[lineplace - 1][charplace] != "#":
+        if mapp[lineplace - 1][charplace] != "#" or "1" or "2":
             mapp[lineplace - 1][charplace] = "^"
             mapp[lineplace][charplace] = "B"
             counter += 1
         else:
             mapp[lineplace][charplace] = ">"
-            trackerlist.append([lineplace -1, charplace, "^"])
-            
-            
+            if mapp[lineplace - 1][charplace] == "1":
+                mapp[lineplace - 1][charplace] = "2"
+            else:
+                mapp[lineplace - 1][charplace] = "1"
     elif downbool == True:
-        if ([lineplace + 1, charplace, "V"]) in trackerlist:
-            #print([lineplace + 1, charplace, "V"])
-            loop = True
-            
-        if mapp[lineplace + 1][charplace] != "#":
+        if mapp[lineplace + 1][charplace] != "#" or "1":
             mapp[lineplace + 1][charplace] = "V"
             mapp[lineplace][charplace] = "B"
             counter += 1
         else:
             mapp[lineplace][charplace] = "<"
-            trackerlist.append([lineplace + 1, charplace, "V"])
-            
-            
+            if mapp[lineplace + 1][charplace] == "1":
+                mapp[lineplace + 1][charplace] = "2"
+            else:
+                mapp[lineplace + 1][charplace] = "1"
     elif leftbool == True:
-        if ([lineplace, charplace - 1, "<"]) in trackerlist:
-            #print([lineplace, charplace - 1, "<"])
-            loop = True
-            
-        if mapp[lineplace][charplace - 1] != "#":
+        if mapp[lineplace][charplace - 1] != "#" or "1":
             mapp[lineplace][charplace - 1] = "<"
             mapp[lineplace][charplace] = "B"
             counter += 1
         else:
             mapp[lineplace][charplace] = "^"
-            trackerlist.append([lineplace, charplace - 1, "<"])
-            
-
+            if mapp[lineplace][charplace - 1] == "1":
+                mapp[lineplace][charplace - 1] = "2"
+            else:
+                mapp[lineplace][charplace - 1] = "1"
     elif rightbool == True:
-        if ([lineplace, charplace + 1, ">"]) in trackerlist:
-            #print([lineplace, charplace + 1, ">"])
-            loop = True
-        if mapp[lineplace][charplace + 1] != "#":
+        if mapp[lineplace][charplace + 1] != "#" or "1":
             mapp[lineplace][charplace + 1] = ">"
             mapp[lineplace][charplace] = "B"
             counter += 1
         else:
             mapp[lineplace][charplace] = "V"
-            trackerlist.append([lineplace, charplace + 1, ">"])
-            
+            if mapp[lineplace][charplace + 1] == "1":
+                mapp[lineplace][charplace + 1] = "2"
+            else:
+                mapp[lineplace][charplace + 1] = "1"
             
         
 
 
 #main code            
 def main():
-    global supertotal
-    global loop
     while True:
         placements = find(mapp)
         movement(placements)
         if (not upbool) and (not downbool) and (not leftbool) and (not rightbool):
             break
-        if loop == True:
-            supertotal += 1
-            break
-mapp = []    
-init()
-ogplacement = find(mapp)
-print(ogplacement)
-main()
-mappp = list(mapp)
-mapp = []
-init()
+    
         
-for line in range(0, len(mappp)):
-    for item in range(0, len(mappp[line])):
-        if (mappp[line][item] == "B" or mappp[line][item] == "^" or mappp[line][item] == "V") and ((line, item) != ogplacement):
-            trackerlist = []
-            loop = False
-            mapp[line][item] = "#"
-            
-            #print(line, item)
-            #for item in mapp:
-            #    print(item)
-            #print("br")
-            main()
-            mapp = []
-            init()
-            print(supertotal)
-            
-print(supertotal)          
-#init()
-#print(len(blockerlist))
-#for x in range(0, len(blockerlist)):
-#    mapp[blockerlist[x][0]][blockerlist[x][1]] = "#"
-#    main()
+init()
+main()
+with open("other-other.txt", "w") as f:
+    for line in mapp:
+        f.write((str(line)))
+        f.write("\n")
+for line in mapp:
+    if "B" in line:
+        placementline = []
+        placementlinenum = mapp.index(line)
+        placementline = mapp[placementlinenum]
+        placementchar = placementline.index("B")
+        placements = (placementlinenum, placementchar)
+        blockerlist.append(placements)
+init()
+for x in range(0, len(blockerlist)):
+    mapp[blockerlist[0]][blockerlist[1]] = "#"
+    main()
 
 
